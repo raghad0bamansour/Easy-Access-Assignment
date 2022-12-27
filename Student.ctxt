@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=
+comment1.target=Student()
+comment2.params=name\ id
+comment2.target=Student(java.lang.String,\ java.lang.String)
+comment3.params=ass
+comment3.target=void\ setAssignment(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAssignment()
+comment5.params=mark
+comment5.target=void\ setMark(double)
+comment6.params=
+comment6.target=double\ getMark()
+comment7.params=
+comment7.target=java.lang.String\ assignHeader()
+numComments=8

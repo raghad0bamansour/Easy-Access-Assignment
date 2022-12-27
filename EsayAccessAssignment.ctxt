@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EsayAccessAssignment
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ setCourse()
+comment3.params=msg\ lineSize
+comment3.target=java.util.List\ splitString(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ readFile()
+numComments=5
